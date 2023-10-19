@@ -1,7 +1,8 @@
-### Hi there 👋
-This is Sushil Rawat . I am Backend Developer with knowledge of frontend as well.
-I am contributing and exploring Open source world. Taking one step every day.
-I am curious by nature and keen on learning something new everyday. Blockchain and AI is something I want to continue in 2023 and 2024
+### Hi there 👋- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning:  Golang, Blockchain
+- 👯 I’m looking to collaborate on: Anything interesting. Love to discuss ideas and tech
+- 💬 Ask me about: Life, Science, Technology
+- 😄 Pronouns: He/Him
 
 <!--
 **rawatsushil/rawatsushil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
