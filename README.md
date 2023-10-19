@@ -1,8 +1,8 @@
 ### Hi there 👋- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning:  Golang, Blockchain
-- 👯 I’m looking to collaborate on: Anything interesting. Love to discuss ideas and tech
-- 💬 Ask me about: Life, Science, Technology
-- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning:  **Golang, Blockchain**
+- 👯 I’m looking to collaborate on: **Anything interesting. Love to discuss ideas and tech**
+- 💬 Ask me about: **Life, Science, Technology**
+- 😄 Pronouns: **He/Him**
 
 <!--
 **rawatsushil/rawatsushil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
