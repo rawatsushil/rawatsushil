@@ -1,4 +1,7 @@
 ### Hi there 👋
+This is Sushil Rawat . I am Backend Developer with knowledge of frontend as well.
+I am contributing and exploring Open source world. Taking one step every day.
+I am curious by nature and keen on learning something new everyday. Blockchain and AI is something I want to continue in 2023 and 2024
 
 <!--
 **rawatsushil/rawatsushil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
